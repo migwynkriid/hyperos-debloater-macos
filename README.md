@@ -2,11 +2,11 @@
 
 # 🚀 Xiaomi HyperOS Debloat Commander
 
-[![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 [![Target](https://img.shields.io/badge/Target-HyperOS%20%7C%20MIUI-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)](#)
 [![License](https://img.shields.io/badge/License-MIT-10B981?style=for-the-badge)](#)
 
-*A powerful, interactive, and completely reversible Windows batch utility designed to safely eradicate telemetry, intrusive ads, and bloatware from Xiaomi, Redmi, and POCO devices, that supports Android 13+.*
+*A powerful, interactive, and completely reversible utility designed to safely eradicate telemetry, intrusive ads, and bloatware from Xiaomi, Redmi, and POCO devices, that supports Android 13+.*
 
 
 **[NO ROOT REQUIRED]** 
